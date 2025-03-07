@@ -1,7 +1,7 @@
 # VSFS-USFS-KYCemeteryMapping
 
 ## Overview
-The **VSFS-USFS-KYCemeteryMapping** repository contains a Jupyter Notebook designed to streamline and automate GIS workflows for historical cemetery mapping in Kentucky. This project is conducted county by county, and it is sponsored by the **Redbird Ranger District**, **Daniel Boone National Forest**, and the **USDA Forest Service** through the **Virtual Student Federal Service (VSFS)** program.
+The **VSFS-USFS-KYCemeteryMapping** repository contains a Jupyter Notebook designed to streamline and automate GIS workflows for historical cemetery mapping in Kentucky. This project is conducted county by county, and it is sponsored by the **Redbird Ranger District** - **Daniel Boone National Forest** - **USDA Forest Service** through the **Virtual Student Federal Service (VSFS)** program.
 
 The notebook is intended to be run in **ArcGIS Pro** and serves as a tool for improving the efficiency of historical cemetery mapping, leveraging GIS data and spatial analysis.
 
