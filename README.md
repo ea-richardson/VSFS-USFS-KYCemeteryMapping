@@ -34,7 +34,7 @@ This notebook is currently under development. While every effort has been made t
 No additional dependencies or external Python packages are required.
 
 ## Credits
-- Developed by Emily Richardson (VSFS Intern). Originally published March 2025.
+- Developed by Emily Richardson (2024-2025 VSFS Intern). Originally published March 2025.
 - AI-assisted development was used to optimize and generate certain portions of the code.
 - Sponsored by the **Redbird Ranger District**, **Daniel Boone National Forest**, **USDA Forest Service**.
 
